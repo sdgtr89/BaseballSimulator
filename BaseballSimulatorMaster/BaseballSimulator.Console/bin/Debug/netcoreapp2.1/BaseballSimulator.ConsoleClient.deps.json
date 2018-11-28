@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BaseballSimulator.ConsoleClient/1.0.0": {
+        "dependencies": {
+          "BaseballSimulator.Objects": "1.0.0"
+        },
+        "runtime": {
+          "BaseballSimulator.ConsoleClient.dll": {}
+        }
+      },
+      "BaseballSimulator.Objects/1.0.0": {
+        "runtime": {
+          "BaseballSimulator.Objects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseballSimulator.ConsoleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseballSimulator.Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
