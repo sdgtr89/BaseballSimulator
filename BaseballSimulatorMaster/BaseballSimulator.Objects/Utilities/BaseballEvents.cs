@@ -14,17 +14,17 @@ namespace BaseballSimulator.Objects.Utilities
         {
             Events = new List<AtBat>
             {
-                { new AtBat("Triple",3, 0.004)},
-                { new AtBat("Home-run",4, 0.033)},
-                { new AtBat("Double",2, 0.045)},
-                { new AtBat("Reach On Error",1, 0.06)},
-                { new AtBat("Hit By Pitch",1, 0.0095)},
-                { new AtBat("Walk",1, 0.085)},
-                { new AtBat("Fly Out",0, 0.09)},
-                { new AtBat("Single",1, 0.145)},
-                { new AtBat("Line Out",0, 0.13)},
-                { new AtBat("Ground Out",0, 0.1825)},
-                { new AtBat("Strikeout",0, 0.216)}
+                { new AtBat("Triple",3, 0.004,true)},
+                { new AtBat("Home-run",4, 0.033,true)},
+                { new AtBat("Double",2, 0.045, true)},
+                { new AtBat("Reach On Error",1, 0.06, true)},
+                { new AtBat("Hit By Pitch",1, 0.0095, false)},
+                { new AtBat("Walk",1, 0.085,false)},
+                { new AtBat("Fly Out",0, 0.09,true)},
+                { new AtBat("Single",1, 0.145,true)},
+                { new AtBat("Line Out",0, 0.13,true)},
+                { new AtBat("Ground Out",0, 0.1825,true)},
+                { new AtBat("Strikeout",0, 0.216,false)}
             };
         }
     }

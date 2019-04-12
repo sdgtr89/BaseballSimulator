@@ -526,10 +526,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -697,23 +698,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SteveDriscoll\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\drisc\\.nuget\\packages\\": {},
+    "Z:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitCode\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Console\\BaseballSimulator.ConsoleClient.csproj",
+      "projectUniqueName": "X:\\git\\repos\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Console\\BaseballSimulator.ConsoleClient.csproj",
       "projectName": "BaseballSimulator.ConsoleClient",
-      "projectPath": "D:\\GitCode\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Console\\BaseballSimulator.ConsoleClient.csproj",
-      "packagesPath": "C:\\Users\\SteveDriscoll\\.nuget\\packages\\",
-      "outputPath": "D:\\GitCode\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Console\\obj\\",
+      "projectPath": "X:\\git\\repos\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Console\\BaseballSimulator.ConsoleClient.csproj",
+      "packagesPath": "C:\\Users\\drisc\\.nuget\\packages\\",
+      "outputPath": "X:\\git\\repos\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "Z:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\SteveDriscoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\drisc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -726,8 +727,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\GitCode\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Objects\\BaseballSimulator.Objects.csproj": {
-              "projectPath": "D:\\GitCode\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Objects\\BaseballSimulator.Objects.csproj"
+            "X:\\git\\repos\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Objects\\BaseballSimulator.Objects.csproj": {
+              "projectPath": "X:\\git\\repos\\BaseballSimulator\\BaseballSimulatorMaster\\BaseballSimulator.Objects\\BaseballSimulator.Objects.csproj"
             }
           }
         }

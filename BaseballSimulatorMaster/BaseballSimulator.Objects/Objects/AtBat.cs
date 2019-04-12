@@ -11,16 +11,23 @@ namespace BaseballSimulator.Objects.Objects
         public string Name { get; }
         public int BasesValue { get; }
         public double Probability { get; }
+        public bool IsBattedBall { get; }
 
-        public AtBat(string name, int baseValue, double probability)
+        public delegate void BattedBallEventHandler(object sender, EventArgs e);
+        public event BattedBallEventHandler BattedBall;
+        public delegate void NonBattedBallEventHandler(object sender, EventArgs e);
+        public event NonBattedBallEventHandler NonBattedBall;
+
+        public AtBat(string name, int baseValue, double probability, bool isBattedBall)
         {
             Name = name;
             BasesValue = baseValue;
             Probability = probability;
+            IsBattedBall = isBattedBall;
         }
         public static AtBat RandomAtBatEvent()
         {
-            var baseballEvent = new AtBat("", 0, 0.0);
+            var baseballEvent = new AtBat("", 0, 0.0,false);
 
             var r = new Random();
             //gets a random double 
@@ -44,16 +51,15 @@ namespace BaseballSimulator.Objects.Objects
 
             return baseballEvent;
         }
-
         
-
-        public static AtBat SimulateOneAtBat(Bases bases, ref int outs)
+        protected virtual void OnBattedBallEvent()
         {
-            var testAtBat = AtBat.RandomAtBatEvent();
-            if (testAtBat.BasesValue > 0) bases.Advance(testAtBat.BasesValue);
-            else ++outs;
 
-            return testAtBat;
+        }
+
+        protected virtual void OnNonBattedBallEvent()
+        {
+
         }
 
         public override string ToString()
