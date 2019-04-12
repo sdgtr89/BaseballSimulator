@@ -26,3 +26,17 @@ D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\o
 D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.csproj.CopyComplete
 D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.dll
 D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.pdb
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\bin\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.deps.json
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\bin\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.runtimeconfig.json
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\bin\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.runtimeconfig.dev.json
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\bin\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.dll
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\bin\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.pdb
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\bin\Debug\netcoreapp2.1\BaseballSimulator.Objects.dll
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\bin\Debug\netcoreapp2.1\BaseballSimulator.Objects.pdb
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.csprojAssemblyReference.cache
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.csproj.CoreCompileInputs.cache
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.AssemblyInfoInputs.cache
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.AssemblyInfo.cs
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.csproj.CopyComplete
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.dll
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Console\obj\Debug\netcoreapp2.1\BaseballSimulator.ConsoleClient.pdb

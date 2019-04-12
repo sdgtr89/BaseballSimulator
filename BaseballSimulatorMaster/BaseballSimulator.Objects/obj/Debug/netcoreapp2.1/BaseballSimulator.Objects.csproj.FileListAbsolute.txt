@@ -16,3 +16,12 @@ D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\o
 D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.AssemblyInfo.cs
 D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.dll
 D:\GitCode\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.pdb
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\bin\Debug\netcoreapp2.1\BaseballSimulator.Objects.deps.json
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\bin\Debug\netcoreapp2.1\BaseballSimulator.Objects.dll
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\bin\Debug\netcoreapp2.1\BaseballSimulator.Objects.pdb
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.csprojAssemblyReference.cache
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.csproj.CoreCompileInputs.cache
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.AssemblyInfoInputs.cache
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.AssemblyInfo.cs
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.dll
+X:\git\repos\BaseballSimulator\BaseballSimulatorMaster\BaseballSimulator.Objects\obj\Debug\netcoreapp2.1\BaseballSimulator.Objects.pdb

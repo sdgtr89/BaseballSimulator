@@ -8,7 +8,8 @@ namespace BaseballSimulator.ConsoleClient
     {
         public static void PlayOneHalfInning(Bases bases, int outs)
         {
-            var testAtBat = AtBat.RandomAtBatEvent();
+            var testAtBat = new AtBat();
+            testAtBat.GenerateRandomPlateAppearance();
             if (testAtBat.BasesValue > 0) bases.Advance(testAtBat.BasesValue);
             else ++outs;
 
